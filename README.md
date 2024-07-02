@@ -28,7 +28,8 @@ I'm a web developer who is passionate about MERN stack development. I specialize
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/arifanadia"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arifanadia&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/arifanadia"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arifanadia&stroke=961EB8&background=090000&ring=961EB8&fire=961EB8&currStreakNum=ffffff&currStreakLabel=961EB8&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=961EB8&border_rounded=true" /></a>
+
 
 
 
