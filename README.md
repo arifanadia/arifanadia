@@ -1,4 +1,4 @@
- https://github.com/arifanadia/arifanadia/assets/155453708/f992d6cc-ee1a-47c4-88d6-e4a1fbc0c95f
+![Blue Waters Facebook Cover](https://github.com/arifanadia/arifanadia/assets/155453708/87a2aabe-d3c6-4708-807d-4a062b69bf42)
  <br>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arifa Nadia
